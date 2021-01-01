@@ -53,6 +53,7 @@
   font-size: var(--text-sm);
   margin-top: 1rem;
   color: rgb(117, 117, 117);
+  font-family: var(--font-secondary);
 }
 
 .post-list__meta > * + * {

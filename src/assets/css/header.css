@@ -26,6 +26,11 @@
   color: currentColor;
 }
 
+.site-subtitle {
+  text-align: center;
+  margin-top: var(--text-xs);
+}
+
 .nav__list {
   display: flex;
   justify-content: space-around;

@@ -11,6 +11,7 @@
 .post__details {
   opacity: 0.6;
   font-size: 0.9rem;
+  font-family: var(--font-secondary);
 }
 
 .post__details > * + * {
@@ -28,6 +29,7 @@
 .post__tags {
   opacity: 0.8;
   font-size: var(--text-sm);
+  font-family: var(--font-secondary);
 }
 
 .post__tags * + * {
