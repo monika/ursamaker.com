@@ -3,6 +3,6 @@ title: About
 layout: base.njk
 ---
 
-Eleventy Duo is a production-ready and SEO-friendly starter for building a blog or personal website. Comes with a customizable duotone theme, minimal and clean design.
+A personal blog documenting the journey of one fat woman in tech learning to sew clothes for herself that affirms both her body and her gender.
 
-Checkout the [project's github repo](https://github.com/yinkakun/eleventy-duo) for more info.
+Created by [Eleventy](https://www.11ty.dev/) and [Eleventy Duo](https://github.com/yinkakun/eleventy-duo). Continuously deployed on [Netlify](https://www.netlify.com/) via [Github](https://github.com/monika/ursamaker.com).

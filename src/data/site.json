@@ -1,12 +1,12 @@
 {
-  "name": "Eleventy Duo",
-  "description": "A minimalist Eleventy theme for personal blog.",
-  "subtitle": "A minimalist Eleventy theme for personal blog.",
-  "url": "https://eleventyduo.netlify.app",
+  "name": "Ursa Maker",
+  "description": "A personal blog documenting the journey of one fat woman learning to sew clothes for herself that affirms both her body and her gender.",
+  "subtitle": "A Fat Woman Sews",
+  "url": "https://ursamaker.com",
   "author": {
-    "name": "Author Name",
-    "email": "author@site.com",
-    "twitterHandle": "author_handle"
+    "name": "Monika Hoex",
+    "email": "monikahoex@gmail.com",
+    "twitterHandle": "evi1pilotfish"
   },
   "socialImage": "/images/social-image.png",
   "footerAttribution": true
