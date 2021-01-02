@@ -54,6 +54,8 @@
   margin-top: 1rem;
   color: rgb(117, 117, 117);
   font-family: var(--font-secondary);
+  text-transform: uppercase;
+  font-weight: 700;
 }
 
 .post-list__meta > * + * {

@@ -9,9 +9,9 @@
   --text-4xl: 2.25rem;
   --text-5xl: 3rem;
   --text-6xl: 5rem;
-  --font-heading: 'IBM Plex Serif', serif;
-  --font-body: 'IBM Plex Sans', sans-serif;
-  --font-secondary: 'IBM Plex Mono', monospace;
+  --font-heading: jaf-domus, sans-serif;
+  --font-body: menco, sans-serif;
+  --font-secondary: menco, sans-serif;
 }
 
 body {
@@ -25,7 +25,7 @@ body {
   -webkit-overflow-scrolling: touch;
   -webkit-text-size-adjust: 100%;
   font-family: var(--font-body);
-  font-weight: 300;
+  font-weight: 500;
 }
 
 h1,
@@ -38,7 +38,8 @@ h6 {
   font-weight: 600;
   color: rgb(41, 41, 41);
   font-family: var(--font-heading);
-  font-weight: 500;
+  font-weight: 600;
+  text-transform: uppercase;
 }
 
 h1 {
@@ -67,5 +68,5 @@ p {
 
 b,
 strong {
-  font-weight: 500;
+  font-weight: 700;
 }
