@@ -1,6 +1,6 @@
 {
   "name": "Ursa Maker",
-  "description": "A personal blog documenting the journey of one fat woman learning to sew clothes for herself that affirms both her body and her gender.",
+  "description": "A personal blog documenting the journey of a fat woman learning to make clothing for herself that affirms both her body and her gender.",
   "subtitle": "A Fat Woman Sews",
   "url": "https://ursamaker.com",
   "author": {
@@ -8,6 +8,6 @@
     "email": "monikahoex@gmail.com",
     "twitterHandle": "evi1pilotfish"
   },
-  "socialImage": "/images/social-image.png",
+  "socialImage": "/images/social-image.jpg",
   "footerAttribution": true
 }
