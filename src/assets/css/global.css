@@ -68,14 +68,14 @@ hr {
 
 a {
   text-decoration: none;
-  color: inherit;
+  color: var(--accent);
   text-decoration: inherit;
   transition: all 200ms linear;
   text-decoration: underline;
 }
 
 a:hover {
-  color: var(--accent);
+  color: var(--secondary-accent);
 }
 
 ol {

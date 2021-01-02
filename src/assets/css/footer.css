@@ -17,6 +17,7 @@
   margin-right: auto;
   max-width: 680px;
   width: 100%;
+  text-align: center;
 }
 
 .footer__content span {
@@ -30,4 +31,8 @@
 
 .footer ul > * + * {
   margin-left: 2rem;
+}
+
+.footer a {
+  color: rgba(255, 255, 255, 0.7);
 }

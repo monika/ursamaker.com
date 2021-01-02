@@ -66,13 +66,13 @@
           <nav class="nav">
             <ul class="nav__list">
               <li class="nav-item">
-                <a href={{ "/" | url }}>subscribe</a>
-              </li>
-              <li class="nav-item">
                 <a href={{ "/blog/" | url }}>archive</a>
               </li>
               <li class="nav-item">
                 <a href={{ "/about/" | url }}>about</a>
+              </li>
+              <li class="nav-item">
+                <a href={{ "/feed.xml" | url }}>subscribe</a>
               </li>
             </ul>
           </nav>
@@ -86,23 +86,16 @@
       <footer class="footer">
         <div class="footer__content">
           <p>
+            Content &copy; 2021 {{site.name}}<br>
+
             <span>
-    Created by by
-      <a href="https://twitter.com/yinkakun" target="_blank" rel="noopener">Yinka</a>
+                Powered by <a href="https://www.11ty.dev" target="_blank" rel="noopener">11ty</a>
             </span>
-
             <span>|</span>
-
             <span>
-      Powered by <a href="https://www.11ty.dev" target="_blank" rel="noopener">11ty</a>
+              Eleventy Duo theme by <a href="https://github.com/yinkakun/eleventy-duo" target="_blank" rel="noopener">Yinka</a>
             </span>
           </p>
-
-          <ul class="footer__nav-list">
-            <li>
-              <a href={{ "/feed.xml" | url}} >RSS</a>
-            </li>
-          </ul>
         </div>
       </div>
 
