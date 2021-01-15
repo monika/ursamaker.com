@@ -1,6 +1,6 @@
 ---
 title: '2021 Project Planning: Outfit One'
-description: Outlining the first project outfit I want to create this year, which includes a light pea coat, long-sleeved shirt, t-shirt, and denim jeans.
+description: Outlining the first project outfit I want to create this year, which includes a chambray pea coat, long-sleeved button-down, t-shirt, and denim jeans.
 date: '2021-01-14'
 tags: [planning, wardrobe, outfits]
 ---
@@ -11,13 +11,13 @@ I can see my new favorite outfit in my mind's eye: it's a light blue denim pea c
 
 It fits me well and I feel good about my style. Femininely-styled clothes don't work for me but I usually have to wear them because they're the things that fit my chest and hips, or I anticipate that people expect me to wear them.
 
-Now that I'm working from home for a year and into the forseeable future, free from performing the expectations of womanhood, I'll be creating an outfit that fits how I see myself and fits my body.
+Now that I've been working from home for over a year and into the foreseeable future, I'm a little more free from performing womanhood as others expect. Now that I get to define it, I'll be creating an outfit that fits how I see myself and fits my body.
 
 Let's start at the top and work our way down:
 
 ### Chambray Peacoat
 
-I finished 2020 with making [StyleArc's Beatrice Pea Coat](https://www.stylearc.com/shop/sewing-patterns/beatrice-pea-coat/) and didn't have a super fun time with it. It fits ok but the directions were difficult to follow as an intermediate sewist. I turned to a few YouTube videos to figure out how a lining is attached to a coat, and set into a back vent. It's the only pea coat pattern I was able to find that fit a fat body, so I went with it.
+I finished 2020 by making [StyleArc's Beatrice Pea Coat](https://www.stylearc.com/shop/sewing-patterns/beatrice-pea-coat/) and didn't have a super fun time with it. It fits ok but the directions were difficult to follow as an intermediate sewist. I turned to a few YouTube videos to figure out how a lining is attached to a coat, and set into a back vent. It's the only pea coat pattern I was able to find that fit a fat body, so I went with it.
 
 I also put in one of my sleeve linings inside out but no one can see that so I'm willing to live with it.
 
