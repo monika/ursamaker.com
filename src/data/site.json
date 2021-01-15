@@ -1,12 +1,12 @@
 {
   "name": "Ursa Maker",
-  "description": "A personal blog documenting the journey of a fat woman learning to make clothing for herself that affirms her body and her gender expression.",
+  "description": "A personal blog documenting the journey of a fat tomboy learning to make masculine clothing for herself that affirms her body and her gender expression.",
   "subtitle": "A fat woman sews masculine clothes",
   "url": "https://ursamaker.com",
   "author": {
     "name": "Monika Hoex",
     "email": "monikahoex@gmail.com",
-    "twitterHandle": "evi1pilotfish"
+    "twitterHandle": "ursamaker"
   },
   "socialImage": "/images/social-image.jpg",
   "footerAttribution": true
